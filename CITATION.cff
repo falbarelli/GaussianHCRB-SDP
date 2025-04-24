@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: GaussianHCRB-SDP
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Shoukang
+    family-names: Chang
+    affiliation: Xi’an Jiaotong University
+    orcid: 'https://orcid.org/0000-0002-1824-1668'
+    email: changshoukang@stu.xjtu.edu.cn
+  - given-names: Marco G.
+    family-names: Genoni
+    email: marco.genoni@unimi.it
+    affiliation: Università degli Studi di Milano
+    orcid: 'https://orcid.org/0000-0001-7270-4742'
+  - given-names: Francesco
+    family-names: Albarelli
+    email: francesco.albarelli@gmail.com
+    affiliation: Scuola Normale Superiore
+    orcid: 'https://orcid.org/0000-0001-5775-168X'
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2504.xxxxx
+    description: arXiv preprint
+  - type: url
+    value: 'https://arxiv.org/abs/2504.xxxxx'
+    description: arXiv URL
+repository-code: 'https://github.com/falbarelli/GaussianHCRB-SDP'
