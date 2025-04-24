@@ -1,6 +1,6 @@
 # GaussianHCRB-SDP
 
-The notebook `GaussianHCRB-Applications.ipynb` contains the SDP to compute the Holevo Cramér-Rao bound for Gaussian quantum states, as explained in [arXiv:2312.02035](https://arxiv.org/abs/2312.02035)) by S. Chang, M. G. Genoni and F. Albarelli.
+The notebook `GaussianHCRB-Applications.ipynb` contains the SDP to compute the Holevo Cramér-Rao bound for Gaussian quantum states, as explained in [arXiv:2504.xxxxx](https://arxiv.org/abs/2504.xxxxx) by S. Chang, M. G. Genoni and F. Albarelli.
 The code is applied to the two applications discussed in the paper and reproduces the two figures in the manuscript.
 
 > [!IMPORTANT]  
