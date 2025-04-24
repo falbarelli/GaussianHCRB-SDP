@@ -4,4 +4,4 @@ The notebook `GaussianHCRB-Applications.ipynb` contains the SDP to compute the H
 The code is applied to the two applications discussed in the paper and reproduces the two figures in the manuscript.
 
 > [!IMPORTANT]  
-> This code relies on `cvxpy`, `numpy` and `matplotlib` for plotting, the `mosek` package is also used as a solver, but it's optional
+> This code relies on `cvxpy`, `numpy` and `matplotlib` for plotting, the `mosek` package is also used as a solver, but it's optional.
